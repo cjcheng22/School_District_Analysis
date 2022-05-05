@@ -29,4 +29,8 @@ Wk4
 ### Scores by school type
 #### •For the scores by school type, there were no changes for the charter schools when the 9th grade math and reading scores for Thomas HS were replaced with NaN.
 ##
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
+#### •The average math and reading scores increased by less than 0.1 percentage point.
+#### •The % passing math decreased by less than 0.1 percentage points.
+#### •The % passing reading decreased by 0.3 percentage points.
+#### •The % overall passing decreased by 0.3 percentage points.
